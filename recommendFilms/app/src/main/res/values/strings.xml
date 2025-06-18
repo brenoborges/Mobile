@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">recommendFilms</string>
+    <string name="title_activity_main_films">MainFilms</string>
+</resources>
